@@ -2,9 +2,9 @@
    
    <!-- Banner Part Start -->
     <section class="banner-part">
-        <div class="swiper-container banner-slider home-one" data-swiper-config='{"loop": true, "effect": "fade", "speed": 800, "autoplay": false, "paginationClickable": true }'>
+        <div class="swiper-container banner-slider home-one" data-swiper-config='{"loop": true, "effect": "fade", "speed": 800, "autoplay": false, "paginationClickable": false }'>
             <div class="swiper-wrapper">
-                <div class="swiper-slide banner-item" data-bg-image="images/bg/slider-1.jpg">
+                <div class="swiper-slide banner-item" data-bg-image="images/bg/slide_1.jpg">
                     <div class="container">
                         <div class="row d-flex justify-content-center">
                             <div class="col-xl-12 banner-caption text-center">
@@ -13,7 +13,7 @@
                                 <div class="banner-line"></div>
                                 <p data-animate="fadeInUp">FiveStar comes with a collection of six astounding and fully customizable <br>.Lorem Ipsum is simply the world dummy text of the printing and typesetting industry.</p>
 
-                                <a href="#" class="btn-1" data-animate="fadeInUp">EXPLORE MORE</a>
+                                <a href="#" class="btn-1 btn-orange" data-animate="fadeInUp" style="">CONTATE-NOS</a>
                             </div>
                         </div>
                     </div>

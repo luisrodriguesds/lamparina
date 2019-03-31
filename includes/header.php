@@ -11,7 +11,7 @@
     <title>Lamparina Comunicação | Home</title>
     
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="images/icon-2.png" type="image/x-icon">
     
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="css/bootstrap.min.css">

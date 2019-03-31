@@ -649,6 +649,10 @@ img {
     border-radius: 3px;
 }
 
+.btn-orange{
+    background: #f2a22b;
+}
+
 .btn-1.btn-darks {
     color: #fff;
     /* border: 1px solid #000; */
