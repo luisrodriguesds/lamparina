@@ -19,7 +19,7 @@
                             </ul> -->
                         </li>
                         <li class="nav-item custom-dropdown-box">
-                            <a href="page-portfolio.php">Portifólio</a>
+                            <a href="page-portfolio.php">Portfólio</a>
                             <!-- <ul class="dropdown-child-manu">
                                 <li><a href="about-company.html">About Company</a></li>
                             </ul> -->
@@ -76,7 +76,7 @@
                         </ul> -->
                     </li>
                     <li class="nav-item custom-dropdown-box">
-                        <a href="page-portfolio.php">Portifólio</a>
+                        <a href="page-portfolio.php">Portfólio</a>
                         <!-- <ul class="dropdown-child-manu">
                             <li><a href="about-company.html">About Company</a></li>
                         </ul> -->
@@ -158,15 +158,8 @@
                     </li>
                     <li>
                         <a href="#">
-                            <i class="fa fa-twitter"></i>
-                            <h6>Twiter</h6>
-                            <span class="counter">12546</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i class="fa fa-pinterest"></i>
-                            <h6>Pinterest</h6>
+                            <i class="fa fa-instagram"></i>
+                            <h6>Instagram</h6>
                             <span class="counter">12546</span>
                         </a>
                     </li>

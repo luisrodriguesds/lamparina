@@ -638,7 +638,7 @@ img {
     background: #613e0e;
     color: #fff;
     padding: 15px 22px;
-    border: 1px solid #fff;
+    /* border: 1px solid #fff; */
     transition: all 0.4s;
     -webkit-transition: all 0.4s;
     -moz-transition: all 0.4s;
@@ -651,7 +651,7 @@ img {
 
 .btn-1.btn-darks {
     color: #fff;
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
 }
 
 .btn-1:hover {
@@ -4251,7 +4251,8 @@ body.active #mobile-nav {
     right: 0;
     height: 100%;
     width: 50%;
-    background: url(../images/bg/testimonial-bg.png) no-repeat;
+    background: url(../images/bg/testimonial-bg_2.png) no-repeat;
+    /* background: url(../images/bg/testimonial-bg.png) no-repeat; */
     background-position: left;
     background-size: cover;
 }
@@ -4832,7 +4833,8 @@ body.active #mobile-nav {
 }
 
 .testimonial-3-part {
-    background: url(../images/bg/testimonial-3-bg.jpg) no-repeat;
+    /* background: url(../images/bg/testimonial-3-bg.jpg) no-repeat; */
+    background: url(../images/bg/testimonial-4-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -4948,7 +4950,7 @@ body.active #mobile-nav {
     left: -105px;
     height: 100%;
     width: 61.5%;
-    background: url(../images/bg/skill-bg.png) no-repeat;
+    background: url(../images/bg/skill-bg_2.png) no-repeat;
     background-position: right;
     background-size: cover;
 }
@@ -8035,6 +8037,7 @@ body.active #mobile-nav {
     height: 410px;
     box-shadow: 0px 3px 9px 0px rgba(108, 108, 108, 0.35);
     margin-bottom: 65px;
+    background: white;
 }
 
 .sin-cont-info i {
@@ -8042,6 +8045,10 @@ body.active #mobile-nav {
     color: #3a3a3a;
     padding-bottom: 6px;
     display: inline-block;
+}
+
+.icon-size i {
+    font-size: 20px;
 }
 
 .sin-cont-info h3 {

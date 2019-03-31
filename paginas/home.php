@@ -2,7 +2,7 @@
    
    <!-- Banner Part Start -->
     <section class="banner-part">
-        <div class="swiper-container banner-slider home-one" data-swiper-config='{"loop": true, "effect": "fade", "speed": 800, "autoplay": 5000, "paginationClickable": true }'>
+        <div class="swiper-container banner-slider home-one" data-swiper-config='{"loop": true, "effect": "fade", "speed": 800, "autoplay": false, "paginationClickable": true }'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide banner-item" data-bg-image="images/bg/slider-1.jpg">
                     <div class="container">
@@ -210,6 +210,7 @@
         </div>
     </section>
     <!-- Counter Part End -->
+
     <!-- Testiminial Part Start -->
     <section class="testimonial-part section-p">
         <div class="container">
@@ -650,14 +651,14 @@
             <div class="row">
                 <div class="twitter-feed-box">
                     <div class="row no-gutters d-flex align-items-center">
-                        <div class="col-lg-8 col-md-5 col-sm-5 col-6">
+                        <div class="col-lg-8 col-md-6 col-sm-12">
                             <div class="swiper-container twitter-feed-slider" data-swiper-config='{"loop": true, "effect": "slide","speed": 800,"autoplay": 5000,"paginationClickable":true,"nextButton":".swiper-button-next","prevButton":".swiper-button-prev"}'>
                                 <div class="text-center" style="color:#fff">
                                     <h1>ACENDA A LAMPARINA!</h1>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-1 col-md-3 col-sm-3 col-4">
+                        <div class="col-lg-1 col-md-4 col-sm-12">
                             <a href="#" class="btn btn-1 btn-darks">SOLICITE UM ORÇAMENTO</a>
                             <!-- <div class="p-relative">
                                 <div class="twitter-icon"> 
@@ -665,17 +666,7 @@
                                 </div>
                             </div> -->
                         </div>
-                        <div class="col-lg-1 col-md-2 col-sm-2 d-none d-sm-inline-block">
-
-                            <!-- <div class="twitter-sldier-button">
-                                <div class="swiper-button-prev">
-                                    <i class="fa fa-angle-left"></i>
-                                </div>
-                                <div class="swiper-button-next">
-                                    <i class="fa fa-angle-right"></i>
-                                </div>
-                            </div> -->
-                        </div>
+                        
                     </div>
                 </div>
             </div>

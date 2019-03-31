@@ -1,292 +1,217 @@
+ <!-- Testiminial Part Start -->
+ <section class="testimonial-part section-p">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-xl-6 col-lg-6 mb-5 mb-lg-0">
+                    <div class="section-head-2 mb-3">
+                        <h2><span>Texto </span> 01</h2>
+                        <p>Dummy text of the printing and typesetting industry orhas been the industry's standard unknown printa galley.</p>
+                    </div>
+                    <div class="story-box">
+                        <div class="row no-gutters justify-content-center">
 
-    <!-- BreadCrumb Part Start -->
-    <section class="breadcrumb-part">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <div class="breadcrumb-title">
-                        <h1>About Us</h1>
-                    </div>
-                </div>
-            </div>
-            <div class="breadcrumb-link">
-                <ul class="flat-list">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-    <!-- BreadCrumb Part End -->
-    <!-- About-4 Part Start -->
-    <div class="about-4-part section-p-2">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-8 col-xl-6">
-                    <div class="about-4-img">
-                        <img src="images/about-4.png" alt="">
-                    </div>
-                </div>
-                <div class="col-md-8 col-xl-6">
-                    <div class="about-4-des">
-                        <div class="section-head-2-1">
-                            <h2><span>Welcome</span> To Legal Help</h2>
-                            <p>Dummy text of the printing and typesetting industry Ipsum has been the industry's standard unknown</p>
-                        </div>
-                        <div id="accordion-4" class="about-4-accodian">
-                            <div class="accodian-4-item">
-                                <div class="accodian-4-head" data-toggle="collapse" data-target="#collapse-4-One" >
-                                    <h5 class="bold">We are served since 93 years to our clients with trust and we are happy.</h5>
+                            <!-- <div class="story-item d-sm-flex align-items-sm-center">
+                                <div class="comment-box">
+                                    <div class="story-comment text-right">
+                                        <p>Dummy text of the print and typesettg industry industry.</p>
+                                        <img src="images/testimonial-story-1.jpg" alt="">
+                                    </div>
                                 </div>
-                                <div id="collapse-4-One" class="accodian-4-result collapse" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                <div class="year year-right-box text-center text-sm-left">
+                                    <div class="years year-right">2006 - 2010</div>
                                 </div>
                             </div>
-                            <div class="accodian-4-item active">
-                                <div class="accodian-4-head" data-toggle="collapse" data-target="#collapse-4-Two" >
-                                    <h5 class="bold">High Quality Performanceyears.</h5>
+                            <div class="story-item d-sm-flex align-items-sm-center">
+                                <div class="year text-center text-sm-right">
+                                    <div class="years year-left">2006 - 2010</div>
                                 </div>
-                                <div id="collapse-4-Two" class="accodian-4-result collapse show" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                                </div>
-                            </div>
-                            <div class="accodian-4-item">
-                                <div class="accodian-4-head" data-toggle="collapse" data-target="#collapse-4-three" >
-                                    <h5 class="bold">Experience the beeWe try to make the world a secure place to live</h5>
-                                </div>
-                                <div id="collapse-4-three" class="accodian-4-result collapse" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                <div class="comment-box">
+                                    <div class="story-comment story-comment-right text-left mt-0">
+                                        <p>Dummy text of the print and typesettg industry industry.</p>
+                                        <img src="images/testimonial-story-1.jpg" alt="">
+                                    </div>
                                 </div>
                             </div>
-                            <div class="accodian-4-item">
-                                <div class="accodian-4-head" data-toggle="collapse" data-target="#collapse-4-four" >
-                                    <h5 class="bold">Talk to one of our attorneys today! </h5>
+                            <div class="story-item d-sm-flex align-items-sm-center">
+                                <div class="comment-box">
+                                    <div class="story-comment text-right">
+                                        <p>Dummy text of the print and typesettg industry industry.</p>
+                                        <img src="images/testimonial-story-1.jpg" alt="">
+                                    </div>
                                 </div>
-                                <div id="collapse-4-four" class="accodian-4-result collapse" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                <div class="year year-right-box text-center text-sm-left">
+                                    <div class="years year-right">2006 - 2010</div>
                                 </div>
-                            </div>
+                            </div> -->
+
+
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <!-- About-4 Part End -->
-    <!-- Counter-3 Part Start -->
-    <section class="counter-3-part section-p counter-3-s2">
-        <div class="container">
-            <div class="row">
-                <!-- Single Counterup -->
-                <div class="col-md-3 col-6 text-center">
-                    <div class="counter-3-item">
-                        <div class="number-box">
-                            <i class="flaticon-customer"></i>
-                            <h2 class="white counter">125</h2>
+                <div class="col-12 col-xl-5 col-lg-6 offset-xl-1">
+                    <div class="testimonial-box">
+                        <div class="section-head-2">
+                            <h2><span>Texto</span> 02 </h2>
+                            <p>Dummy text of the printing and typesetting industry orhas been the industry's standard unknown printa galley.</p>
                         </div>
-                        <h3 class="font-size-16">Satisfied Clients</h3>
-                    </div>
-                </div>
-                <!-- Single Counterup -->
-                <div class="col-md-3 col-6 text-center">
-                    <div class="counter-3-item">
-                        <div class="number-box">
-                            <i class="flaticon-cells"></i>
-                            <h2 class="white counter">25</h2>
-                        </div>
-                        <h3 class="font-size-16">Year Experience</h3>
-                    </div>
-                </div>
-                <!-- Single Counterup -->
-                <div class="col-md-3 col-6 mt-4 mt-md-0 text-center">
-                    <div class="counter-3-item">
-                        <div class="number-box">
-                            <i class="flaticon-project-manager"></i>
-                            <h2 class="white counter">925</h2>
-                        </div>
-                        <h3 class="font-size-16">Project Done</h3>
-                    </div>
-                </div>
-                <!-- Single Counterup -->
-                <div class="col-md-3 col-6 mt-4 mt-md-0 text-center">
-                    <div class="counter-3-item">
-                        <div class="number-box">
-                            <i class="flaticon-smiling-emoticon-square-face"></i>
-                            <h2 class="white counter">725</h2>
-                        </div>
-                        <h3 class="font-size-16">Happy Clients</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Counter-3 Part End -->
-    <!-- Team-2 Part Start -->
-    <section class="team-2-part section-p">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <div class="section-head-3-1">
-                        <h2>Our Expert <span>Attorneys</span></h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humourh.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="swiper-container team-3-slider" data-swiper-config='{"loop": true, "effect": "slide", "speed": 800, "autoplay": 5000, "paginationClickable": true,"slidesPerView" : 3 ,"spaceBetween": 30,"breakpoints": { "5000": { "slidesPerView": 3},"1200": { "slidesPerView": 3 },"575": { "slidesPerView": 1}, "991": { "slidesPerView": 2, "spaceBetween": 30}}}'>
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Single Exprt Slider  -->
-                            <div class="swiper-slide">
-                                <div class="team-2-item text-center">
-                                    <div class="team-2-img">
-                                        <img src="images/team-2-1.jpg" alt="">
-                                        <div class="team-2-social">
-                                            <ul>
-                                                <li><a href="#"><i class='fa fa-facebook'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-twitter'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-instagram'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-linkedin'></i></a></li>
-                                            </ul>
+                        <div class="swiper-container testimonial-slider" data-swiper-config='{"loop": true, "effect": "slide", "speed": 800, "autoplay": 5000, "paginationClickable": true, "spaceBetween": 25 }' >
+                            <div class="swiper-wrapper">
+
+                                <!-- Single Testimonial -->
+                                <!-- <div class="swiper-slide testimonial-item">
+                                    <div class="row">
+                                        <div class="col-8 offset-2 col-sm-5 col-xl-4 offset-sm-0 mb-3 mb-sm-0">
+                                            <div class="person-detail">
+                                                <div class="person-img">
+                                                    <img src="images/testimonial-1.jpg" alt="Image">
+                                                </div>
+                                                <h3>John doe</h3>
+                                                <p>UI Designer</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-sm-7 col-xl-8">
+                                            <div class="person-comment">
+                                                <h4>Dummy text of th printing and typeseg industry.</h4>
+                                                <ul class="flat-list star">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-half-o"></i></li>
+                                                </ul>
+                                                <div class="mains-comment">
+                                                    <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mveniam.<i class="fa fa-quote-right"></i> </p>
+                                                </div>
+                                                <img src="images/testmonial-signeture.png" alt="">
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="team-2-des">
-                                        <h4>Jack Simmons</h4>
-                                        <p>Medical Malpractice</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Exprt Slider  -->
-                            <div class="swiper-slide">
-                                <div class="team-2-item text-center">
-                                    <div class="team-2-img">
-                                        <img src="images/team-2-2.jpg" alt="">
-                                        <div class="team-2-social">
-                                            <ul>
-                                                <li><a href="#"><i class='fa fa-facebook'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-twitter'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-instagram'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-linkedin'></i></a></li>
-                                            </ul>
+                                </div> -->
+
+                                <!-- Single Testimonial -->
+                                <!-- <div class="swiper-slide testimonial-item">
+                                    <div class="row">
+                                        <div class="col-8 offset-2 col-sm-5 col-xl-4 offset-sm-0 mb-3 mb-sm-0">
+                                            <div class="person-detail">
+                                                <div class="person-img">
+                                                    <img src="images/testimonial-1.jpg" alt="Image">
+                                                </div>
+                                                <h3>John doe</h3>
+                                                <p>CEO</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-sm-7 col-xl-8">
+                                            <div class="person-comment">
+                                                <h4>Dummy text of th printing and typeseg industry.</h4>
+                                                <ul class="flat-list star">
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star"></i></li>
+                                                    <li><i class="fa fa-star-half-o"></i></li>
+                                                </ul>
+                                                <div class="mains-comment">
+                                                    <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mveniam.<i class="fa fa-quote-right"></i> </p>
+                                                </div>
+                                                <img src="images/testmonial-signeture.png" alt="">
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="team-2-des">
-                                        <h4>Michael Linden</h4>
-                                        <p>Medical Malpractice</p>
-                                    </div>
-                                </div>
+                                </div> -->
+
                             </div>
-                            <!-- Single Exprt Slider  -->
-                            <div class="swiper-slide">
-                                <div class="team-2-item text-center">
-                                    <div class="team-2-img">
-                                        <img src="images/team-2-3.jpg" alt="">
-                                        <div class="team-2-social">
-                                            <ul>
-                                                <li><a href="#"><i class='fa fa-facebook'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-twitter'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-instagram'></i></a></li>
-                                                <li><a href="#"><i class='fa fa-linkedin'></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="team-2-des">
-                                        <h4>ASP SAJAL</h4>
-                                        <p>Medical Malpractice</p>
-                                    </div>
-                                </div>
-                            </div>
+                            <div class="swiper-pagination"></div>
                         </div>
-                        <!-- If we need pagination -->
-                        <div class="swiper-pagination"></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Team-2 Part End -->
-    <!-- Testimonial-3 Part Start -->
-    <section class="testimonial-3-part section-p-2">
+    <!-- Testiminial Part End -->
+
+
+    <!-- Skill Part Start -->
+    <section class="skill-part section-p">
         <div class="container">
             <div class="row">
-                <div class="col-12 text-center">
-                    <div class="section-head-3-1">
-                        <h2 class="white">Client <span>Stories</span></h2>
+                <div class="col-md-6">
+                    <div class="skill-box">
+                        <div class="section-head-2">
+                            <h2>Texto <span>03</span></h2>
+                            <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard unknown printa galley.</p>
+                        </div>
+                        <div class="progressbar-box">
+                            
+                            <!-- <div class="progressbar-wrapper">
+                                <div class="progress vertical bottom">
+                                    <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-1.jpg" role="progressbar" data-transitiongoal="95"></div>
+                                </div>
+                                <h5 class="font-size-16">FAMILY LAW</h5>
+                                <span>95%</span>
+                            </div>
+                            
+                            <div class="progressbar-wrapper">
+                                <div class="progress vertical bottom">
+                                    <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-2.jpg" role="progressbar" data-transitiongoal="85"> </div>
+                                </div>
+                                <h5 class="font-size-16">INDUSTIAL LAW</h5>
+                                <span>85%</span>
+                            </div>
+                            
+                            <div class="progressbar-wrapper">
+                                <div class="progress vertical bottom">
+                                    <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-3.jpg" role="progressbar" data-transitiongoal="75"> </div>
+                                </div>
+                                <h5 class="font-size-16">BUSINESS LAW</h5>
+                                <span>75%</span>
+                            </div>
+                            
+                            <div class="progressbar-wrapper">
+                                <div class="progress vertical bottom">
+                                    <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-4.jpg" role="progressbar" data-transitiongoal="65"> </div>
+                                </div>
+                                <h5 class="font-size-16">HOME LAW</h5>
+                                <span>65%</span>
+                            </div>
+                            
+                            <div class="progressbar-wrapper">
+                                <div class="progress vertical bottom">
+                                    <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-5.jpg" role="progressbar" data-transitiongoal="55"> </div>
+                                </div>
+                                <h5 class="font-size-16">CAR LAW</h5>
+                                <span>55%</span>
+                            </div> -->
+
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-10 offset-1">
-                    <div class="swiper-container testimonial-3-slider" data-swiper-config='{"loop": true, "effect": "slide", "speed": 2000, "autoplay": 5000,"slidesPerView": 1,"paginationClickable": true}'>
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Slides -->
-                            <div class="swiper-slide testimonial-3-item">
-                                <div class="person-3-comment">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h3>“ Thanks to this legal company, I got all my property back and got mytation restored. The team of professional lawyers will surely  to this legal company, I got all my prsucceed in your lawyers will surely case too.”</h3>
-                                </div>
-                                <div class="person-3-detail">
-                                    <h2>Thomas Anders</h2>
-                                    <p>Founder & CEO</p>
-                                </div>
-                            </div>
-                            <div class="swiper-slide testimonial-3-item">
-                                <div class="person-3-comment">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h3>“ Thanks to this legal company, I got all my property back and got mytation restored. The team of professional lawyers will surely  to this legal company, I got all my prsucceed in your lawyers will surely case too.”</h3>
-                                </div>
-                                <div class="person-3-detail">
-                                    <h2>Thomas Anders</h2>
-                                    <p>Founder & CEO</p>
-                                </div>
-                            </div>
-                            <div class="swiper-slide testimonial-3-item">
-                                <div class="person-3-comment">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h3>“ Thanks to this legal company, I got all my property back and got mytation restored. The team of professional lawyers will surely  to this legal company, I got all my prsucceed in your lawyers will surely case too.”</h3>
-                                </div>
-                                <div class="person-3-detail">
-                                    <h2>Thomas Anders</h2>
-                                    <p>Founder & CEO</p>
-                                </div>
-                            </div>
+                <div class="col-md-6 col-xl-5 offset-xl-1">
+                    <div class="skill-contact-form">
+                        <div class="section-head-2">
+                            <h2>Texto <span>04</span></h2>
+                            <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard unknown printa galley.</p>
                         </div>
-                        <!-- If we need pagination -->
-                        <div class="swiper-pagination"></div>
+                        <!-- <form class="contact-form">
+                            <div class="row">
+                                <div class="col-12">
+                                    <label>Free Case Consultation</label>
+                                </div>
+                                <div class="col-12 col-lg-12">
+                                    <input class="form-control" type="text" placeholder="Name*" required>
+                                </div>
+                                <div class="col-12 col-lg-12">
+                                    <input class="form-control" type="email" placeholder="Email*" required>
+                                </div>
+                                <div class="col-12">
+                                    <textarea class="form-control" placeholder="Message"></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn-1">SEND US</button>
+                                </div>
+                            </div>
+                        </form> -->
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Testimonial-3 Part End -->
-    <!-- Clint logo 4 Part Start -->
-    <section class="clint-logo-4-part">
-        <div class="container">
-            <div class="row">
-                <div class="swiper-container clint-logo-4-slider" data-swiper-config='{"loop": true, "effect": "slide", "speed": 900, "autoplay": 1500, "paginationClickable": true, "slidesPerView" : 4 ,"breakpoints": { "575": { "slidesPerView": 2, "spaceBetween": 10}, "767": { "slidesPerView": 3, "spaceBetween": 10}}}'>
-                    <!-- Additional required wrapper -->
-                    <div class="swiper-wrapper d-flex align-items-center">
-                        <!-- Slides -->
-                        <div class="swiper-slide clint-logo-4-item">
-                            <a href="#"><img src="images/clint-logo-4-3.png" alt=""></a>
-                        </div>
-                        <div class="swiper-slide clint-logo-4-item">
-                            <a href="#"><img src="images/clint-logo-4-2.png" alt=""></a>
-                        </div>
-                        <div class="swiper-slide clint-logo-4-item">
-                            <a href="#"><img src="images/clint-logo-4-3.png" alt=""></a>
-                        </div>
-                        <div class="swiper-slide clint-logo-4-item">
-                            <a href="#"><img src="images/clint-logo-4-4.png" alt=""></a>
-                        </div>
-                        <div class="swiper-slide clint-logo-4-item">
-                            <a href="#"><img src="images/clint-logo-4-5.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Clint logo 4 Part End -->

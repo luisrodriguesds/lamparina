@@ -1,12 +1,3 @@
-
-    <!-- Map Area Start -->
-    
-    <div class="google-map">
-  <div class="gmap3-area" data-lat="24.592631" data-lng="88.269891" data-mrkr="images/bg/map-marker.png">
-  </div><!-- /.google-map -->
- </div><!-- /#map -->
-    
-    <!-- Map Area end -->
     
     <!-- Contact-info area Start -->
     <section class="contact-info">
@@ -18,19 +9,23 @@
                        <div class="email-info sin-cont-info d-flex align-items-center">
                           <div class="center-wrap">
                            <i class="flaticon-at"></i>
-                           <h3>Email Us</h3>
-                           <p>Mail:<a href="mailto:name@email.com">info@yoursite.com</a></p>
-                           <a href="mailto:name@email.com">info@yoursite.com</a>
+                           <h3>Nossos Emails</h3>
+                           <p><a href="mailto:name@email.com">contato@lamparinacomunicacao.com</a></p>
+                           <!-- <a href="mailto:name@email.com">contato@lamparinacomunicacao.com</a> -->
                            </div>
                            
                        </div>
                    </div>
                    <div class="col-md-4">
-                        <div class="office-location sin-cont-info d-flex align-items-center">
+                        <div class="email-info sin-cont-info d-flex align-items-center">
                            <div class="center-wrap">
                             <i class="flaticon-location"></i>
-                            <h3>office location</h3>
-                            <p>Address: WE54, New York Queens, NY 12121.</p>
+                            <h3>Nossas Mídias</h3>
+                            <div class="icon-size">
+                                <p><a href="#"><i class="fa fa-facebook"></i>/lamparinacomunicacao</a> </p>
+                                <p><a href="#"><i class="fa fa-instagram"></i>/lamparinacomunicacao</a> </p>    
+                            </div>
+
                            </div> 
                         </div>
                     </div>
@@ -38,9 +33,9 @@
                         <div class="call-us sin-cont-info d-flex align-items-center">
                             <div class="center-wrap">
                                 <i class="flaticon-telephone-of-old-design"></i>
-                                <h3>call Us</h3>
-                                <p>Phone: <a href="tel:158-659-8546">158-659-8546</a></p>
-                                <a href="tel:158-659-8546">158-659-8546</a>
+                                <h3>Nossos Telefones</h3>
+                                <p><a href="tel:158-659-8546">(85) 99735-4788</a></p>
+                                <p><a href="tel:158-659-8546">(85) 99735-4788</a></p>
                             </div>
                         </div>
                    </div>
@@ -58,25 +53,16 @@
             <div class="row justify-content-center">
                 <div class="col-xl-8">
                    <div class="con-bottom-inner">
-                       <h4>CONTACT <span>US</span></h4>
+                       <h4>Entre em <span>Contato</span></h4>
                        <div class="per-social">
-                           <ul>
-                               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                               <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                               <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                               <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
-                           </ul>
+                           
                         </div>
-                        <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p>
+                        <!-- <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p> -->
                         <div class="con-page-form">
-                            <textarea name="message" placeholder="Message"></textarea>
-                            <input type="text" placeholder="Name *" class="mar-r">
+                            <textarea name="message" placeholder="Conteudo"></textarea>
+                            <input type="text" placeholder="Nome *" class="mar-r">
                             <input type="text" placeholder="Email *">
-                            <input value="Submit" type="submit">
+                            <input value="Enviar" type="submit">
                         </div>
                    </div>
                     
