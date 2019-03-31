@@ -1,0 +1,18 @@
+# Node modules
+node_modules
+
+# Adonis directory for storing tmp files
+tmp
+
+# Environment variables, never commit this file
+.env
+
+# The development sqlite file
+database/development.sqlite
+
+sftp-config.json
+
+img/slide_01.psd
+img/logo.psd
+img/main.psd
+img/mineral-glass-square.psd
