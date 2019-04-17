@@ -3185,7 +3185,7 @@ body.active #mobile-nav {
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
-
+    
     .home-one .banner-caption {
 	    width: 100%;
     }
@@ -3310,7 +3310,9 @@ body.active #mobile-nav {
 	padding-left: 200px;
     }
 
-    
+    .container{
+        max-width: 99%;
+    }
     
 }
 @media only screen and (max-width: 575px) {
@@ -4497,6 +4499,9 @@ body.active #mobile-nav {
 }
 
 .person-comment .rateit {
+    clear: both;
+}
+.clear{
     clear: both;
 }
 
@@ -6984,6 +6989,26 @@ body.active #mobile-nav {
     visibility: visible;
 }
 
+@media (min-width: 270px) and (max-width: 576px) {
+
+    .bloco-right-lg{
+        display: none !important;
+    }   
+    .bloco-right-sm{
+        display: block !important;
+    }
+    .pra-cont{
+        text-align: center;
+    }
+
+}
+
+.bloco-right-lg{
+    display: block;
+}
+.bloco-right-sm{
+    display: none;
+}
 .pra-img img {
     width: 100%
 }
