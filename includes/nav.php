@@ -66,17 +66,24 @@
             <div class="achivement-blog">
                 <ul class="flat-list">
                     <li>
-                        <a href="#">
+                        <a href="https://www.facebook.com/comunicalamparina/?ref=bookmarks" target="_blank">
                             <i class="fa fa-facebook"></i>
                             <h6>Facebook</h6>
-                            <span class="counter">12546</span>
+                            <span class="counter">1000</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://www.instagram.com/lamparinacomunicacao/" target="_blank">
                             <i class="fa fa-instagram"></i>
                             <h6>Instagram</h6>
-                            <span class="counter">12546</span>
+                            <span class="counter">1000</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/lamparinacomunicacao/about/?viewAsMember=true" target="_blank">
+                            <i class="fa fa-linkedin"></i>
+                            <h6>Linkedin </h6>
+                            <span class="counter">1000</span>
                         </a>
                     </li>
                 </ul>

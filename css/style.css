@@ -596,7 +596,7 @@ img {
 }
 
 .flat-list li {
-    display: inline-block;
+    /*display: inline-block;*/
 }
 
 .flat-list.social-icon li {
@@ -5223,16 +5223,12 @@ body.active #mobile-nav {
     width: 120px;
 }
 
-.achivement-blog ul li:first-child {
+.achivement-blog ul li {
     padding-left: 28px;
 }
 
 .achivement-blog ul li:first-child i {
     left: 0;
-}
-
-.achivement-blog ul li:not(:last-child) {
-    border-right: 1px solid #cdcbcb;
 }
 
 .achivement-blog ul li span {
@@ -5242,7 +5238,7 @@ body.active #mobile-nav {
 .achivement-blog ul li i {
     position: absolute;
     top: 50%;
-    left: 15px;
+    left: -5px;
     font-size: 30px;
     transform: translateY(-50%);
     height: 30px;

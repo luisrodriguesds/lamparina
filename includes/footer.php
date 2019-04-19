@@ -18,10 +18,10 @@
                                 
                             </p>
                             <ol class="flat-list">
-                                <li><a href="https://www.linkedin.com/company/lamparinacomunicacao/about/?viewAsMember=true" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.facebook.com/comunicalamparina/?ref=bookmarks" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                 <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
-                                <li><a href="https://www.facebook.com/comunicalamparina/?ref=bookmarks" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="https://www.instagram.com/lamparinacomunicacao/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://www.instagram.com/lamparinacomunicacao/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/lamparinacomunicacao/about/?viewAsMember=true" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             </ol>
                         </div>
                     </div>
@@ -39,6 +39,7 @@
                                 <li><i class="fa fa-phone"></i>
                                     <p><a href="callto::85997354788">(85)9 9735-4788</a></p>
                                 </li>
+                                
                                 <!-- <li><i class="fa fa-phone"></i>
                                     <p><a href="callto::85991544138">(85)9 9154-4138</a></p>
                                 </li> -->

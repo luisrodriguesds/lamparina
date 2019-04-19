@@ -55,7 +55,7 @@ global $wp;
     <!-- Magnific css -->
     <link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/css/magnific-popup.css">
     <!-- Main style css -->
-    <link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/css/style.css">
+    <link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/css/style.css?v=1.2">
 </head>
 
 <body>
