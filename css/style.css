@@ -595,8 +595,12 @@ img {
     background: #fff;
 }
 
+.sociais li{
+    display: block !important;
+}
+
 .flat-list li {
-    /*display: inline-block;*/
+    display: inline-block;
 }
 
 .flat-list.social-icon li {

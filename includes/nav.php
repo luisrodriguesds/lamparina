@@ -64,7 +64,7 @@
                 </ul>
 
             <div class="achivement-blog">
-                <ul class="flat-list">
+                <ul class="flat-list sociais">
                     <li>
                         <a href="https://www.facebook.com/comunicalamparina/?ref=bookmarks" target="_blank">
                             <i class="fa fa-facebook"></i>
