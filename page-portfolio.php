@@ -1,5 +1,5 @@
 <?php 
     include 'includes/header.php';
-    include 'paginas/portfolio.php';
+    include 'pages/portfolio.php';
     include 'includes/footer.php';
 ?>

@@ -942,12 +942,9 @@ img {
 }
 
 #nav-list > ul > li {
-    padding: 45px 23px;
+    padding: 30px 20px;
 }
 
-#nav-list > ul > li {
-    padding: 45px 23px;
-}
 
 #mid-nav #nav-list > ul > li > a {
     font-size: 14px;
@@ -1170,7 +1167,7 @@ img {
 }
 
 .nav-scrl #nav-list > ul > li {
-    padding: 38px 23px;
+    padding: 30px 20px;
 }
 
 .nav-bg-brand-color.nav-scrl {
@@ -1222,7 +1219,7 @@ img {
         left: -20px;
     }
     .nav-scrl #nav-list > ul > li {
-        padding: 38px 20px;
+        padding: 30px 20px;
     }
 
 }
@@ -5798,7 +5795,7 @@ body.active #mobile-nav {
 
 .twitter-feed-box {
 	background: #f2a22b;
-	padding: 30px 0;
+	padding: 20px 0;
 	width: 100%;
 	text-align: center;
 	position: relative;
@@ -5939,7 +5936,7 @@ body.active #mobile-nav {
 .footer-widget {
     background: #3c3c3c;
     color: #fff;
-    padding: 100px 0 95px;
+    padding: 40px 0 40px;
 }
 
 .footer-logo {
@@ -6006,7 +6003,7 @@ body.active #mobile-nav {
 
 .footer-copyright {
     background: #2e2e2e;
-    padding: 40px 0;
+    padding: 15px 0;
     text-align: center;
 }
 

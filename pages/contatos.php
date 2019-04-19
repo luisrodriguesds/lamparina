@@ -1,4 +1,4 @@
-    
+
     <!-- Contact-info area Start -->
     <section class="contact-info">
         <div class="container-fluid no-pad">
@@ -35,7 +35,7 @@
                                 <i class="flaticon-telephone-of-old-design"></i>
                                 <h3>Nossos Telefones</h3>
                                 <p><a href="tel:158-659-8546">(85) 99735-4788</a></p>
-                                <p><a href="tel:158-659-8546">(85) 99735-4788</a></p>
+                                <!-- <p><a href="tel:158-659-8546">(85) 99735-4788</a></p> -->
                             </div>
                         </div>
                    </div>
@@ -59,10 +59,14 @@
                         </div>
                         <!-- <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p> -->
                         <div class="con-page-form">
-                            <textarea name="message" placeholder="Conteudo"></textarea>
+                            <textarea name="message" placeholder="Conteúdo"></textarea>
                             <input type="text" placeholder="Nome *" class="mar-r">
                             <input type="text" placeholder="Email *">
                             <input value="Enviar" type="submit">
+                            <?php 
+                              // the_post();
+                              // the_content(); 
+                            ?>
                         </div>
                    </div>
                     
