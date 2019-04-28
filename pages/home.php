@@ -52,7 +52,7 @@
     <?php 
        $texto = query_posts('post_type=textos-das-secoes&post_name=servicos&orderby=date&order=ASC');
        wp_reset_query();
-       $res = query_posts('post_type=servicos&orderby=post_title&order=ASC');
+       $res = query_posts('post_type=servicos&orderby=date&order=ASC');
         if (have_posts()) {
    ?>
     <!-- Practise Part Start -->
@@ -73,7 +73,7 @@
                     the_post();
                 ?>
                 <!-- Single Practice -->
-                <div class="col-sm-6 col-lg-4">
+                <div class="col-sm-6 col-lg-6">
                     <div class="practise-item">
                         <div class="icon-box"><i class="fa <?php the_field('icone') ?>"></i></div>
                         <h2><a href="<?php bloginfo( 'url' ); ?>/servicos/"><?php the_title(); ?></a></h2>
