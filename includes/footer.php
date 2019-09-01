@@ -84,7 +84,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
-                        <p>Copyright © 2019 | Todos os direitos reservados - Lamparina Comunicação | Developed By  <a href="http://luisrodriguesdev.com.br" target="_blank" style="color: #f2a22b;">Luis Rodrigues</a></p>
+                        <p>Copyright © 2019 | Todos os direitos reservados - Lamparina Comunicação | Developed By  <a href="http://luisrodriguesdev.epizy.com/" target="_blank" style="color: #f2a22b;">Luis Rodrigues</a></p>
                     </div>
                 </div>
             </div>
